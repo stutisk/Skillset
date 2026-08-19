@@ -4,7 +4,7 @@ A responsive frontend implementation built in Framer using React/TypeScript code
 
 ## Live Demo
 
-[View the live Framer project]((https://blushing-sparrow-309073.framer.app/))
+[View the live Framer project](https://blushing-sparrow-309073.framer.app/)
 
 ## Repository
 
